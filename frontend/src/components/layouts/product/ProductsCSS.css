@@ -1,0 +1,185 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+
+.NewClassifiedFirstHBanne img {
+  width: 100%;
+}
+
+/* products */
+
+.prodcutwidthmain2343 {
+  width: 265.22px;
+  height: 361.27px;
+  position: relative;
+}
+
+.Prody84843826234 img {
+  width: 265.22px;
+  height: 241.21px;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.Nameofyhenoghisry43383 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #12046c;
+  margin-top: 10px;
+  word-break: break-all;
+  margin-left: 8px;
+}
+
+.Dretsah874235uu {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: 5px;
+}
+
+.detailsofthebiejh347 {
+  display: flex;
+  align-items: center;
+  column-gap: 4px;
+  margin-left: 8px;
+}
+
+.bdfgs7g47833 {
+  margin-top: 10px;
+  margin-left: 8px;
+}
+
+.Butjhsdfui3478ugy3w {
+  width: 87.32px;
+  height: 26.19px;
+  border-radius: 5px;
+  background-color: #12046c;
+  border: none;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  text-align: center;
+}
+
+.bikeproductdivflexcontenet {
+  display: flex;
+  column-gap: 48px;
+  flex-wrap: wrap;
+  row-gap: 48px;
+}
+/* products */
+
+@media (max-width: 700px) {
+  .col-sm-12 {
+    width: 100%;
+    overflow: scroll;
+    scrollbar-width: none;
+  }
+  .Dispjijji3478483448943894 {
+    display: flex;
+    justify-content: center;
+    column-gap: 31px;
+    margin-top: 14px;
+  }
+  .Filteroptioniodns2383834 {
+    width: 83px;
+    height: 33px;
+    border-radius: 7px;
+    background-color: #232b70;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5px;
+  }
+
+  /* products */
+
+  .prodcutwidthmain2343 {
+    width: 154px;
+    height: auto;
+  }
+
+  .Prody84843826234 img {
+    width: 154px;
+    height: 140px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+  .Nameofyhenoghisry43383 {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #12046c;
+    margin-top: 10px;
+    word-break: break-all;
+    margin-left: 8px;
+  }
+
+  .Dretsah874235uu {
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-top: 5px;
+  }
+
+  .detailsofthebiejh347 {
+    display: flex;
+    align-items: center;
+    column-gap: 4px;
+    margin-left: 8px;
+  }
+
+  .bdfgs7g47833 {
+    margin-top: 10px;
+    margin-left: 8px;
+  }
+
+  .Butjhsdfui3478ugy3w {
+    width: 58px;
+    height: 18px;
+    border-radius: 3px;
+    background-color: #12046c;
+    border: none;
+    color: #fff;
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: center;
+  }
+
+  .bikeproductdivflexcontenet {
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
+    flex-wrap: wrap;
+    row-gap: 48px;
+  }
+  /* products */
+}
+
+@media (min-width: 1000px) {
+  .Filteroptioniodns2383834 {
+    display: none;
+  }
+}
+
+@media (max-width: 1000px) {
+  .buypagebikesvideos {
+    display: none;
+  }
+}
